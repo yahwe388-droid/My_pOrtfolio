@@ -7,7 +7,7 @@ This portfolio showcases my **technical skills, projects, and services**, demons
 
 ## 🚀 Live Demo
 👉 Explore my portfolio project here:  
-[https://github.com/yahwe388-droid/My_pOrtfolio.git ](https://yahwe388-droid.github.io/My_pOrtfolio/) 
+[Kebek Guta_Portfolio](https://yahwe388-droid.github.io/My_pOrtfolio/) 
 
 
 ## ✨ Features
